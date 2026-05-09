@@ -1,0 +1,9 @@
+tensorflow==2.17.0
+scikit-learn
+numpy
+pandas
+matplotlib
+seaborn
+streamlit
+tensorboard
+ipykernel
